@@ -1,0 +1,18 @@
+{
+    "posts": {
+        "id": 1,
+        "name": "post_2"
+    },
+    "users": [
+        {
+            "name": "ali",
+            "job": ["developer", "chemist"],
+            "age": 30
+        },
+        {
+            "name": "hasann",
+            "job": ["developer", "engineer"],
+            "age": 25
+        }
+    ]
+}
